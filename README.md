@@ -30,13 +30,13 @@
 ## 🔗 Social Links
 <div id="social-badges">
   <a href="https://www.linkedin.com/in/muriloportugal/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/muportugal">
-    <img src="https://img.shields.io/badge/Instagram-red?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-05122A?style=flat&logo=instagram" alt="Instagram Badge"/>
   </a>
   <a href="https://pt.stackoverflow.com/users/157622/murilo-portugal">
-    <img src="https://img.shields.io/badge/StackOverFlow-yellow?style=flat&logo=stackoverflow&logoColor=white" alt="StackOverFlow Badge"/>
+    <img src="https://img.shields.io/badge/StackOverFlow-05122A?style=flat&logo=stackoverflow" alt="StackOverFlow Badge"/>
   </a>
 </div>
 <!--
